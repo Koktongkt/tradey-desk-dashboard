@@ -1,0 +1,45 @@
+{
+  "blocked_disagreements": [
+    {
+      "evidence_id": "b51b5566fb7c1664",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "timestamp": "2026-08-30T03:25:53.489108Z"
+    },
+    {
+      "evidence_id": "0ee43e91afcc9793",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "timestamp": "2026-08-30T03:28:46.387149Z"
+    }
+  ],
+  "decision_audit": [],
+  "outcomes": [],
+  "performance": {
+    "avg_excess_5s_pct": null,
+    "confirmed_trades": 0,
+    "qualified_candidates": 1,
+    "skipped_candidates": 0,
+    "traded_candidates": 0
+  },
+  "recent_orders": [
+    {
+      "evidence_id": "b51b5566fb7c1664",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "timestamp": "2026-08-30T03:25:53.489108Z"
+    },
+    {
+      "evidence_id": "0ee43e91afcc9793",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "timestamp": "2026-08-30T03:28:46.387149Z"
+    }
+  ],
+  "reviews": {
+    "agreements": 0,
+    "disagreements": 0,
+    "total_dual_model_reviews": 2,
+    "unavailable": 0
+  }
+}
