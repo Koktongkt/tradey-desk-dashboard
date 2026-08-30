@@ -4,12 +4,14 @@
       "evidence_id": "b51b5566fb7c1664",
       "reason": "malformed_or_low_confidence",
       "status": "rejected",
+      "symbol": "NVDA",
       "timestamp": "2026-08-30T03:25:53.489108Z"
     },
     {
       "evidence_id": "0ee43e91afcc9793",
       "reason": "consensus_hold",
       "status": "rejected",
+      "symbol": "NVDA",
       "timestamp": "2026-08-30T03:28:46.387149Z"
     }
   ],
@@ -78,12 +80,14 @@
       "evidence_id": "b51b5566fb7c1664",
       "reason": "malformed_or_low_confidence",
       "status": "rejected",
+      "symbol": "NVDA",
       "timestamp": "2026-08-30T03:25:53.489108Z"
     },
     {
       "evidence_id": "0ee43e91afcc9793",
       "reason": "consensus_hold",
       "status": "rejected",
+      "symbol": "NVDA",
       "timestamp": "2026-08-30T03:28:46.387149Z"
     }
   ],
