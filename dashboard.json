@@ -14,6 +14,57 @@
     }
   ],
   "decision_audit": [],
+  "desk_status": {
+    "account_cap_usd": 10000,
+    "broker_mode": "paper",
+    "enabled": true,
+    "max_daily_orders": 2,
+    "max_position_usd": 125,
+    "min_reward_risk": 2.0
+  },
+  "last_activity_at": "2026-08-30T03:28:46.387149Z",
+  "outcome_horizons": {
+    "1": {
+      "skipped": {
+        "avg_excess_pct": null,
+        "count": 0
+      },
+      "traded": {
+        "avg_excess_pct": null,
+        "count": 0
+      }
+    },
+    "10": {
+      "skipped": {
+        "avg_excess_pct": null,
+        "count": 0
+      },
+      "traded": {
+        "avg_excess_pct": null,
+        "count": 0
+      }
+    },
+    "3": {
+      "skipped": {
+        "avg_excess_pct": null,
+        "count": 0
+      },
+      "traded": {
+        "avg_excess_pct": null,
+        "count": 0
+      }
+    },
+    "5": {
+      "skipped": {
+        "avg_excess_pct": null,
+        "count": 0
+      },
+      "traded": {
+        "avg_excess_pct": null,
+        "count": 0
+      }
+    }
+  },
   "outcomes": [],
   "performance": {
     "avg_excess_5s_pct": null,
