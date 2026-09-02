@@ -391,6 +391,14 @@
       "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
       "symbol": "ORCL",
       "timestamp": "2026-09-02T14:01:19.136343Z"
+    },
+    {
+      "evidence_id": "852a2b09e98cf095",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "QCOM",
+      "timestamp": "2026-09-02T14:15:44.961732Z"
     }
   ],
   "decision_audit": [
@@ -4293,6 +4301,38 @@
       "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
       "symbol": "QCOM",
       "timestamp": "2026-09-02T14:02:31.192127Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T14:15:18.764690Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T14:15:44.977772Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-02T14:30:58.028095Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T14:31:50.913346Z"
     }
   ],
   "desk_status": {
@@ -4301,9 +4341,9 @@
     "enabled": true,
     "max_daily_orders": 2,
     "max_position_usd": 500,
-    "min_reward_risk": 2.0
+    "min_reward_risk": 1.6
   },
-  "last_activity_at": "2026-09-02T14:02:31.192127Z",
+  "last_activity_at": "2026-09-02T14:31:50.913346Z",
   "outcome_horizons": {
     "1": {
       "skipped": {
@@ -4350,7 +4390,7 @@
   "performance": {
     "avg_excess_5s_pct": null,
     "confirmed_trades": 0,
-    "qualified_candidates": 32,
+    "qualified_candidates": 33,
     "skipped_candidates": 0,
     "traded_candidates": 0
   },
@@ -4746,12 +4786,187 @@
       "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
       "symbol": "ORCL",
       "timestamp": "2026-09-02T14:01:19.136343Z"
+    },
+    {
+      "evidence_id": "852a2b09e98cf095",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "QCOM",
+      "timestamp": "2026-09-02T14:15:44.961732Z"
+    }
+  ],
+  "researched_candidates": [
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "NVDA",
+      "timestamp": "2026-08-30T02:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-08-31T00:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "NVDA",
+      "timestamp": "2026-08-31T13:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "LNG",
+      "timestamp": "2026-08-31T14:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "WDAY",
+      "timestamp": "2026-08-31T14:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "PLTR",
+      "timestamp": "2026-08-31T15:02:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "PCG",
+      "timestamp": "2026-08-31T15:35:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "CRM",
+      "timestamp": "2026-08-31T16:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "MU",
+      "timestamp": "2026-08-31T16:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-08-31T17:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-08-31T17:35:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "TSLA",
+      "timestamp": "2026-08-31T18:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "TSLA",
+      "timestamp": "2026-08-31T18:40:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-08-31T19:05:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "PLTR",
+      "timestamp": "2026-08-31T00:32:24Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-01T12:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SLB",
+      "timestamp": "2026-09-01T13:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "TSLA",
+      "timestamp": "2026-09-01T14:02:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "RSI",
+      "timestamp": "2026-09-01T14:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AAPL",
+      "timestamp": "2026-09-01T15:02:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ULTA",
+      "timestamp": "2026-09-01T15:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "NVDA",
+      "timestamp": "2026-09-01T16:20:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "CRWD",
+      "timestamp": "2026-09-01T16:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "CRWD",
+      "timestamp": "2026-09-01T17:01:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-01T17:25:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "MDT",
+      "timestamp": "2026-09-01T18:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-01T18:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-01T18:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "CIEN",
+      "timestamp": "2026-09-01T19:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T13:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-02T13:34:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "QCOM",
+      "timestamp": "2026-09-02T14:15:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T14:31:00Z"
     }
   ],
   "reviews": {
     "agreements": 0,
     "disagreements": 0,
-    "total_dual_model_reviews": 49,
+    "total_dual_model_reviews": 50,
     "unavailable": 1
   }
 }
