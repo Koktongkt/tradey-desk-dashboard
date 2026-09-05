@@ -399,8 +399,174 @@
       "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
       "symbol": "QCOM",
       "timestamp": "2026-09-02T14:15:44.961732Z"
+    },
+    {
+      "evidence_id": "ecebe89f73067719",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-02T16:00:40.748271Z"
+    },
+    {
+      "evidence_id": "cbd9378c56e7d4b8",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T16:15:58.946980Z"
+    },
+    {
+      "evidence_id": "fc5ba944df9a2c0d",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T16:30:52.230859Z"
+    },
+    {
+      "evidence_id": "47781679e7afb366",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T16:45:48.099612Z"
+    },
+    {
+      "evidence_id": "c023a1f704759ba1",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T17:01:33.067455Z"
+    },
+    {
+      "evidence_id": "a932c5fa7b63e61f",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:15:44.888992Z"
+    },
+    {
+      "evidence_id": "66a7b535ecccf0f9",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:30:50.909683Z"
+    },
+    {
+      "evidence_id": "71eb9eb93b6ee1bc",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:45:41.568842Z"
+    },
+    {
+      "evidence_id": "04f47c126ab04c96",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:01:03.891817Z"
+    },
+    {
+      "evidence_id": "d1970ba15aea957e",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:15:57.948051Z"
+    },
+    {
+      "evidence_id": "b3911e3e9fd3ee46",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:30:45.273789Z"
+    },
+    {
+      "evidence_id": "78b08881c2d840f7",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:45:51.874760Z"
+    },
+    {
+      "evidence_id": "be5e59e1e75cf544",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:01:51.243597Z"
+    },
+    {
+      "evidence_id": "6c4918b07c8f807d",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:15:48.581357Z"
+    },
+    {
+      "evidence_id": "2eb669be1c741075",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:30:46.435190Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "e7ad85bd29fe4838",
+      "reason": "reviewer_unavailable",
+      "status": "rejected",
+      "summary": "At least one independent reviewer was unavailable, so the desk failed closed and submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T18:18:04.626790Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "f78a332098e8a061",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T13:46:10.753077Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "47d6c8eb9dfec7c2",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T14:16:12.279875Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "d397fbf3393fb17a",
+      "reason": "model_disagreement",
+      "status": "rejected",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-04T15:46:12.483742Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "ed6865890ef10f7d",
+      "reason": "model_disagreement",
+      "status": "rejected",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T17:21:43.740867Z"
     }
   ],
+  "blocker_diagnostics": [],
   "decision_audit": [
     {
       "decision": "skipped",
@@ -4333,6 +4499,3181 @@
       "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
       "symbol": "DELL",
       "timestamp": "2026-09-02T14:31:50.913346Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T14:45:18.998135Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consolidated_quote_unavailable,near_term_earnings,weak_reward_to_risk",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-02T14:45:55.554634Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consolidated_quote_unavailable,near_term_earnings",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-02T15:01:15.224648Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T15:02:48.258722Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T15:15:19.194272Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-02T15:30:44.954413Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-02T15:32:01.965717Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T15:45:19.416702Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-02T15:45:30.791987Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T16:00:40.765868Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T16:02:10.757029Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T16:15:19.607675Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T16:15:58.963668Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T16:30:52.248068Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T16:33:14.311189Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T16:45:19.831534Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T16:45:48.115613Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T17:01:33.085926Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:02:25.734264Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T17:15:20.332519Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consensus_hold",
+      "stage": "execution",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "timestamp": "2026-09-02T17:15:44.906266Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consensus_hold",
+      "stage": "execution",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "timestamp": "2026-09-02T17:30:50.931995Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:31:30.147336Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T17:45:20.541556Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T17:45:41.585044Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T18:01:03.910120Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:01:20.544436Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T18:15:20.766145Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T18:15:57.962388Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T18:30:45.291673Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:32:25.030947Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T18:45:20.979286Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T18:45:51.893569Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T19:01:51.278666Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:02:12.775854Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T19:15:21.209145Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T19:15:48.599503Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "malformed_or_low_confidence",
+      "stage": "execution",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "timestamp": "2026-09-02T19:30:46.452139Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-02T19:32:00.793267Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T19:45:21.431318Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-02T19:45:21.534981Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:00:21.525713Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:00:21.530000Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:15:21.635488Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "outcome_measurement",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-02T20:15:35.921122Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "dashboard_build",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-02T20:15:35.981229Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:30:21.720415Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:30:21.728142Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T20:45:22.474836Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "dashboard",
+      "stage": "deployment",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-02T20:45:28.120185Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:00:22.587834Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:00:22.591257Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:15:22.683990Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-02T21:15:22.694072Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:30:22.788054Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:30:22.796777Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T21:45:22.893408Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-02T21:45:22.910516Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:00:22.993141Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:00:23.004104Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:15:23.114382Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:15:23.132976Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:30:23.210850Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:30:23.229188Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:45:23.337928Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T22:45:23.346405Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:00:23.427192Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:00:23.457490Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:15:23.516087Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:15:23.527330Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:30:23.639780Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:30:23.650150Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:45:23.736835Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-02T23:45:23.772461Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:00:23.839147Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:00:23.851849Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:15:23.954732Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:15:23.967230Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:30:24.628227Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:30:24.631154Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:45:24.727973Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T00:45:24.736243Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:00:24.851189Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:00:24.851189Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:15:24.930753Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:15:24.940768Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:30:25.048878Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:30:25.059745Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:45:25.168270Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T01:45:25.172276Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:00:25.261680Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:00:25.269388Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:15:25.384812Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:15:25.401990Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:30:25.466365Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:30:25.476304Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:45:25.562039Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T02:45:25.574059Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:00:25.687414Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:00:25.702198Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:15:25.779469Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:15:25.782554Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:30:25.882112Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:30:25.895606Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:45:25.984422Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T03:45:25.995470Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T04:00:26.467868Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T04:00:26.470292Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:12:23.564195Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:12:23.571838Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:12:23.585777Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:12:23.602461Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:15:24.379839Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T05:15:24.383492Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T09:53:15.536382Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T09:53:15.536572Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T09:53:15.563551Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T09:53:15.576406Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T10:01:23.341421Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T10:01:23.341550Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T10:15:23.413464Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T10:30:23.528912Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T10:45:04.159372Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T11:00:04.279954Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T11:15:04.355777Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T11:30:04.468124Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "premarket",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T14:11:00.705004Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T14:11:00.759734Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T14:11:00.777183Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-03T14:11:00.872833Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-03T14:13:52.721142Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T14:15:00.710527Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "whole_share_unaffordable",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T14:15:10.578028Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T14:45:16.150180Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-03T14:46:00.693298Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "whole_share_unaffordable",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T14:46:52.994840Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T14:47:31.658456Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T14:57:02.706315Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-03T15:01:13.278100Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T15:05:48.439880Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T15:30:25.621561Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-03T15:31:14.218513Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-03T15:33:01.626270Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "whole_share_unaffordable",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T15:37:05.958916Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T15:53:41.224390Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "whole_share_unaffordable",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T15:53:50.302521Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-03T16:01:22.665151Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T16:05:06.312363Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T16:38:58.358815Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-03T16:39:48.186296Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T16:41:04.360577Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T16:45:06.738239Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T16:45:18.807103Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T17:04:32.647936Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T17:05:58.704782Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T17:15:22.554002Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T17:15:33.132479Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T17:30:34.138585Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T17:31:58.109700Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T17:45:22.775285Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T17:45:31.846826Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T18:00:43.727428Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T18:02:53.521725Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T18:15:22.995240Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "reviewer_unavailable",
+      "stage": "execution",
+      "summary": "At least one independent reviewer was unavailable, so the desk failed closed and submitted no order.",
+      "timestamp": "2026-09-03T18:18:04.646630Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T18:30:41.664806Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ZS",
+      "timestamp": "2026-09-03T18:32:00.078286Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T18:45:23.223821Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "near_term_earnings,spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T18:45:34.136158Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "near_term_earnings,spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T19:00:42.016781Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "NTAP",
+      "timestamp": "2026-09-03T19:02:53.246982Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T19:15:23.440489Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T19:15:34.839641Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T19:30:43.227771Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "CRDO",
+      "timestamp": "2026-09-03T19:32:30.142538Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T19:45:23.649277Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-03T19:45:35.228982Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:00:23.732729Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:00:23.742669Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:15:23.846795Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "outcome_measurement",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-03T20:15:39.971640Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "dashboard_build",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-03T20:15:46.688023Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:30:23.941287Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:30:23.951673Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T20:45:24.031983Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "dashboard",
+      "stage": "deployment",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-03T20:45:32.867187Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:00:24.130837Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:00:24.144912Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-03T21:15:24.767785Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:15:24.774200Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:30:24.874457Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:30:24.899288Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T21:45:24.975136Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-03T21:45:24.984302Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:00:25.079416Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:00:25.088452Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:15:25.180895Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:15:25.192028Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:30:25.286968Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:30:25.299811Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:45:25.388316Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T22:45:25.394953Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:00:25.494796Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:00:25.524016Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:15:25.593113Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:15:25.600806Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:30:25.719053Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:30:25.726022Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:45:25.801260Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-03T23:45:25.812974Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:00:25.897389Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:00:25.907072Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:15:25.993411Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:15:26.001592Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:30:26.096814Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:30:26.106023Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:45:26.203899Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T00:45:26.220768Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:00:26.690381Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:00:26.700422Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:15:26.793330Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:15:26.806722Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:30:26.904983Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:30:26.919037Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:45:27.009746Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T01:45:27.019309Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:00:27.159715Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:00:27.159691Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:15:27.261857Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:15:27.269189Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:30:27.348886Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:30:27.351189Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:45:27.442841Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T02:45:27.450672Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:00:27.554611Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:00:27.563782Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:15:27.675262Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:15:27.675264Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:30:27.753973Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:30:27.763802Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:45:27.873984Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T03:45:27.878575Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:00:27.984634Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:00:27.991095Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:15:28.072596Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:15:28.083184Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:30:28.190008Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:30:28.192604Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:45:28.614185Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T04:45:28.622109Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:00:28.733923Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:00:28.738213Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:15:28.840160Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:15:28.843411Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:30:28.964014Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:30:28.977052Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:45:29.062964Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T05:45:29.071012Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:00:29.167960Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:00:29.174652Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:15:29.287090Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:15:29.287177Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:30:29.384040Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:30:29.392486Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:45:29.496706Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T06:45:29.504851Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:00:01.967085Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:00:01.967547Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:15:20.234707Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:15:20.234760Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:30:20.327541Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:30:20.334531Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:45:20.439026Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T07:45:20.446113Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:00:20.540296Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:00:20.549476Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:15:20.669373Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:15:20.669375Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:30:20.769350Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:30:20.781328Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:45:20.867934Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T08:45:20.879239Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:00:20.962769Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:00:20.973561Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:15:21.082444Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:15:21.088811Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:30:21.167319Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:30:21.180647Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:45:21.271431Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T09:45:21.280834Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:00:21.397396Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:00:21.427868Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:15:21.517098Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:15:21.526772Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:30:21.619196Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:30:21.623302Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:45:21.722611Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T10:45:21.744113Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:00:21.834243Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:00:21.842718Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:15:21.949762Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:15:21.960962Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:30:22.106969Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:30:22.114158Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:45:23.338658Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T11:45:23.348814Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:00:23.468486Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:00:23.469796Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:15:23.578354Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:15:23.584210Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:30:23.714396Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:30:23.728070Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "premarket",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T12:32:11.286047Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:45:23.850692Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T12:45:23.850692Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T13:00:23.932444Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T13:00:23.943226Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T13:15:24.046318Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T13:15:24.046402Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T13:31:21.021400Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T13:36:01.345313Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T13:45:24.279204Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consensus_hold",
+      "stage": "execution",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "timestamp": "2026-09-04T13:46:10.774104Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T14:01:08.659436Z"
+    },
+    {
+      "decision": "system_failure",
+      "mode": "radar",
+      "reason": "alpha_radar",
+      "stage": "research",
+      "summary": "A system step failed, so the cycle stopped without placing an order.",
+      "timestamp": "2026-09-04T14:06:24.910054Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T14:15:24.966677Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "consensus_hold",
+      "stage": "execution",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "timestamp": "2026-09-04T14:16:12.300034Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T14:31:08.199798Z"
+    },
+    {
+      "decision": "system_failure",
+      "mode": "radar",
+      "reason": "alpha_radar",
+      "stage": "research",
+      "summary": "A system step failed, so the cycle stopped without placing an order.",
+      "timestamp": "2026-09-04T14:36:03.065600Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T14:45:25.225985Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-04T14:45:37.912633Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T15:00:25.419254Z"
+    },
+    {
+      "decision": "system_failure",
+      "mode": "radar",
+      "reason": "alpha_radar",
+      "stage": "research",
+      "summary": "A system step failed, so the cycle stopped without placing an order.",
+      "timestamp": "2026-09-04T15:06:25.720697Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T15:15:26.277842Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T15:15:26.376775Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T15:30:26.550308Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-04T15:33:35.656357Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T15:45:26.506225Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "model_disagreement",
+      "stage": "execution",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "timestamp": "2026-09-04T15:46:12.503847Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T16:01:08.114912Z"
+    },
+    {
+      "decision": "system_failure",
+      "mode": "radar",
+      "reason": "alpha_radar",
+      "stage": "research",
+      "summary": "A system step failed, so the cycle stopped without placing an order.",
+      "timestamp": "2026-09-04T16:06:30.940105Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T16:15:30.990125Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-04T16:15:42.673922Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T16:31:12.848754Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T16:35:33.215238Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T16:45:32.950129Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "spread_too_wide",
+      "stage": "execution",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-04T16:45:44.019520Z"
+    },
+    {
+      "decision": "auth_failure",
+      "mode": "autotrader",
+      "reason": "broker_mcp_unavailable",
+      "stage": "execution",
+      "summary": "The broker read-only connection was unavailable, so the desk could not validate account state and failed closed.",
+      "timestamp": "2026-09-04T17:01:25.238016Z"
+    },
+    {
+      "decision": "system_failure",
+      "mode": "radar",
+      "reason": "alpha_radar",
+      "stage": "research",
+      "summary": "A system step failed, so the cycle stopped without placing an order.",
+      "timestamp": "2026-09-04T17:06:36.364217Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T17:15:36.523994Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "model_disagreement",
+      "stage": "execution",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "timestamp": "2026-09-04T17:21:43.760547Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "HPE",
+      "timestamp": "2026-09-04T17:33:44.901481Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T17:40:38.857887Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T17:45:38.780233Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "radar",
+      "reason": "no_candidate",
+      "stage": "research",
+      "summary": "A required desk gate blocked the cycle before an order could be placed.",
+      "timestamp": "2026-09-04T17:59:48.416753Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T18:00:39.028669Z"
+    },
+    {
+      "decision": "reused_fresh_candidate",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "A sanitized desk lifecycle event was recorded; private operational details remain withheld.",
+      "symbol": "HPE",
+      "timestamp": "2026-09-04T18:02:12.053015Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T18:15:02.242072Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T18:20:02.373907Z"
+    },
+    {
+      "decision": "reused_fresh_candidate",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "A sanitized desk lifecycle event was recorded; private operational details remain withheld.",
+      "symbol": "HPE",
+      "timestamp": "2026-09-04T18:31:33.668381Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T18:40:08.824380Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T18:45:08.731043Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T19:00:08.964635Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T19:02:17.826901Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T19:15:09.970052Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T19:20:10.098693Z"
+    },
+    {
+      "decision": "candidate_qualified",
+      "mode": "radar",
+      "stage": "research",
+      "summary": "The candidate passed the desk's initial research-quality checks and advanced to independent review.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T19:31:51.239607Z"
+    },
+    {
+      "decision": "blocked",
+      "mode": "autotrader",
+      "reason": "stale_or_unverified_research",
+      "stage": "execution",
+      "summary": "The research evidence was stale or could not be verified, so the candidate did not advance.",
+      "timestamp": "2026-09-04T19:40:10.242240Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T19:45:10.197850Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T20:00:10.308050Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T20:00:10.323014Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "outcome_measurement",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-04T20:15:30.780995Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "postclose",
+      "stage": "dashboard_build",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-04T20:15:38.237647Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T20:20:10.447700Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T20:30:10.519125Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T20:40:10.570164Z"
+    },
+    {
+      "decision": "completed",
+      "mode": "dashboard",
+      "stage": "deployment",
+      "summary": "The scheduled cycle completed without an order or reportable blocker.",
+      "timestamp": "2026-09-04T20:45:37.418253Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T21:00:10.733247Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T21:00:10.733285Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-04T21:15:10.803959Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T21:20:10.854773Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T21:30:10.920262Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T21:40:10.991304Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "already_completed",
+      "stage": "schedule",
+      "summary": "This scheduled cycle had already completed for the day, so the duplicate run was skipped.",
+      "timestamp": "2026-09-04T21:45:12.036265Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:00:11.846015Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:00:11.857122Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:15:11.949400Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:20:11.995223Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:30:12.058958Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:40:12.143484Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T22:45:12.176830Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:00:12.270956Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:00:12.281819Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "postclose",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:15:12.381131Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:20:12.413188Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "radar",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:30:12.486766Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "autotrader",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:40:12.550076Z"
+    },
+    {
+      "decision": "skipped",
+      "mode": "dashboard",
+      "reason": "outside_window",
+      "stage": "schedule",
+      "summary": "The scheduled cycle was outside its permitted market window, so no review or order ran.",
+      "timestamp": "2026-09-04T23:45:12.600627Z"
     }
   ],
   "desk_status": {
@@ -4343,7 +7684,7 @@
     "max_position_usd": 500,
     "min_reward_risk": 1.6
   },
-  "last_activity_at": "2026-09-02T14:31:50.913346Z",
+  "last_activity_at": "2026-09-04T23:45:12.600627Z",
   "outcome_horizons": {
     "1": {
       "skipped": {
@@ -4390,7 +7731,7 @@
   "performance": {
     "avg_excess_5s_pct": null,
     "confirmed_trades": 0,
-    "qualified_candidates": 33,
+    "qualified_candidates": 62,
     "skipped_candidates": 0,
     "traded_candidates": 0
   },
@@ -4794,6 +8135,224 @@
       "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
       "symbol": "QCOM",
       "timestamp": "2026-09-02T14:15:44.961732Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "8cb9e7d5deef25f0",
+      "limit_price": 450.0,
+      "order_type": "limit",
+      "quantity": 1,
+      "status": "proposed",
+      "summary": "Both reviewers agreed on an executable plan that advanced to deterministic risk validation.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T14:45:55.538941Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "8cb9e7d5deef25f0",
+      "limit_price": 450.0,
+      "order_type": "limit",
+      "quantity": 1,
+      "reason": [
+        "consolidated_quote_unavailable",
+        "near_term_earnings",
+        "weak_reward_to_risk"
+      ],
+      "status": "rejected",
+      "summary": "The idea did not clear all required review and deterministic safety gates, so no order was submitted.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T14:45:55.539119Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "d27ee9e892e6e311",
+      "limit_price": 443.9,
+      "order_type": "limit",
+      "quantity": 1,
+      "status": "proposed",
+      "summary": "Both reviewers agreed on an executable plan that advanced to deterministic risk validation.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T15:01:15.207283Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "d27ee9e892e6e311",
+      "limit_price": 443.9,
+      "order_type": "limit",
+      "quantity": 1,
+      "reason": [
+        "consolidated_quote_unavailable",
+        "near_term_earnings"
+      ],
+      "status": "rejected",
+      "summary": "The idea did not clear all required review and deterministic safety gates, so no order was submitted.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T15:01:15.207510Z"
+    },
+    {
+      "evidence_id": "ecebe89f73067719",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-02T16:00:40.748271Z"
+    },
+    {
+      "evidence_id": "cbd9378c56e7d4b8",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T16:15:58.946980Z"
+    },
+    {
+      "evidence_id": "fc5ba944df9a2c0d",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T16:30:52.230859Z"
+    },
+    {
+      "evidence_id": "47781679e7afb366",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T16:45:48.099612Z"
+    },
+    {
+      "evidence_id": "c023a1f704759ba1",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T17:01:33.067455Z"
+    },
+    {
+      "evidence_id": "a932c5fa7b63e61f",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:15:44.888992Z"
+    },
+    {
+      "evidence_id": "66a7b535ecccf0f9",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:30:50.909683Z"
+    },
+    {
+      "evidence_id": "71eb9eb93b6ee1bc",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:45:41.568842Z"
+    },
+    {
+      "evidence_id": "04f47c126ab04c96",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:01:03.891817Z"
+    },
+    {
+      "evidence_id": "d1970ba15aea957e",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:15:57.948051Z"
+    },
+    {
+      "evidence_id": "b3911e3e9fd3ee46",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:30:45.273789Z"
+    },
+    {
+      "evidence_id": "78b08881c2d840f7",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:45:51.874760Z"
+    },
+    {
+      "evidence_id": "be5e59e1e75cf544",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:01:51.243597Z"
+    },
+    {
+      "evidence_id": "6c4918b07c8f807d",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:15:48.581357Z"
+    },
+    {
+      "evidence_id": "2eb669be1c741075",
+      "reason": "malformed_or_low_confidence",
+      "status": "rejected",
+      "summary": "At least one review was malformed or below the required confidence threshold, so no order was allowed.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:30:46.435190Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "e7ad85bd29fe4838",
+      "reason": "reviewer_unavailable",
+      "status": "rejected",
+      "summary": "At least one independent reviewer was unavailable, so the desk failed closed and submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T18:18:04.626790Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "f78a332098e8a061",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T13:46:10.753077Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "47d6c8eb9dfec7c2",
+      "reason": "consensus_hold",
+      "status": "rejected",
+      "summary": "Both reviewers independently chose to hold, so the desk submitted no order.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T14:16:12.279875Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "d397fbf3393fb17a",
+      "reason": "model_disagreement",
+      "status": "rejected",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-04T15:46:12.483742Z"
+    },
+    {
+      "action": "BUY",
+      "evidence_id": "ed6865890ef10f7d",
+      "reason": "model_disagreement",
+      "status": "rejected",
+      "summary": "The independent reviewers did not agree on the same action, so the idea was blocked.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T17:21:43.740867Z"
     }
   ],
   "researched_candidates": [
@@ -4961,12 +8520,157 @@
       "summary": "Passed the desk's initial research-quality and source-verification checks.",
       "symbol": "DELL",
       "timestamp": "2026-09-02T14:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T15:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-02T15:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-02T15:55:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "LULU",
+      "timestamp": "2026-09-02T16:35:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T17:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:02:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T18:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "AVGO",
+      "timestamp": "2026-09-02T19:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-02T17:45:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-03T14:11:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T14:50:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T15:01:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "DELL",
+      "timestamp": "2026-09-03T15:31:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T16:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T16:45:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T17:10:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-03T17:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-03T18:05:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ZS",
+      "timestamp": "2026-09-03T18:27:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "NTAP",
+      "timestamp": "2026-09-03T19:05:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "CRDO",
+      "timestamp": "2026-09-03T19:30:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T12:45:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ORCL",
+      "timestamp": "2026-09-04T14:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "ADBE",
+      "timestamp": "2026-09-04T15:32:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T16:32:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "HPE",
+      "timestamp": "2026-09-04T16:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T12:00:00Z"
+    },
+    {
+      "summary": "Passed the desk's initial research-quality and source-verification checks.",
+      "symbol": "SNOW",
+      "timestamp": "2026-09-04T12:00:00Z"
     }
   ],
   "reviews": {
-    "agreements": 0,
-    "disagreements": 0,
-    "total_dual_model_reviews": 50,
-    "unavailable": 1
+    "agreements": 2,
+    "disagreements": 2,
+    "total_dual_model_reviews": 72,
+    "unavailable": 2
   }
 }
