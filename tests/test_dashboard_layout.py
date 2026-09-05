@@ -11,23 +11,13 @@ class DashboardLayoutTests(unittest.TestCase):
     def setUpClass(cls):
         cls.html = INDEX.read_text(encoding="utf-8")
 
-    def test_blocker_details_are_collapsible_under_review_and_order_log(self):
-        activity = re.search(
-            r'<div class="panel activity">(?P<body>.*?)</div></section>\n <section class="section"><div class="section-head"><div><div class="eyebrow">Method, not marketing',
-            self.html,
-        )
-        self.assertIsNotNone(activity, "Recent activity panel was not found")
-        if activity is None:
-            self.fail("Recent activity panel was not found")
-        body = activity.group("body")
-        review_heading = body.index("<h3>Review and order log</h3>")
-        blocker_dropdown = body.index('<details class="blocker-details">')
-        blocker_list = body.index('id="diagnostic-events"')
-
-        self.assertLess(review_heading, blocker_dropdown)
-        self.assertLess(blocker_dropdown, blocker_list)
-        self.assertIn("<summary><span>Blocker details</span>", body)
-        self.assertNotIn('<div class="activity-col"><h3>Blocker details</h3>', body)
+    def test_blocker_details_are_nested_in_matching_rejected_events(self):
+        self.assertIn("const attachBlockerDiagnostics=", self.html)
+        self.assertIn('<details class="event-diagnostics">', self.html)
+        self.assertIn("<summary>Blocker details</summary>", self.html)
+        self.assertIn("eventRows(orders)", self.html)
+        self.assertNotIn('id="diagnostic-events"', self.html)
+        self.assertNotIn('<details class="blocker-details">', self.html)
 
     def test_recent_activity_uses_two_flexible_columns(self):
         self.assertIn(
@@ -35,11 +25,22 @@ class DashboardLayoutTests(unittest.TestCase):
             self.html,
         )
 
-    def test_blocker_dropdown_count_tracks_filtered_diagnostics(self):
-        self.assertIn(
-            "document.querySelector('#blocker-detail-count').textContent=`${number(diagnostics.length)} record${diagnostics.length===1?'':'s'}`",
+    def test_blocker_matching_requires_rejection_reason_symbol_and_time(self):
+        matcher = re.search(
+            r"const attachBlockerDiagnostics=.*?;\nconst eventRows=",
             self.html,
         )
+        self.assertIsNotNone(matcher)
+        if matcher is None:
+            self.fail("Blocker matcher was not found")
+        source = matcher.group(0)
+        for condition in (
+            "row.status!=='rejected'",
+            "gap>=0&&gap<=60000",
+            "reasonCodes(row).includes(diag.reason)",
+            "row.symbol===diag.symbol",
+        ):
+            self.assertIn(condition, source)
 
 
 if __name__ == "__main__":
